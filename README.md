@@ -28,6 +28,7 @@ A curated collection of awesome developer tools, resources, and utilities.
 - **ripgrep** - Fast text search
 - **bat** - Cat clone with syntax highlighting
 - **exa** - Modern replacement for ls
+- **[codex-profiles](https://github.com/Ducksss/codex-profiles)** - Switch Codex CLI/Desktop accounts with isolated CODEX_HOME profiles
 
 ## VS Code Extensions
 
