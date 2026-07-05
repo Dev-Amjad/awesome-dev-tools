@@ -54,6 +54,7 @@ A curated collection of awesome developer tools, resources, and utilities.
 - **Alfred** (macOS) - Productivity app
 - **Raycast** (macOS) - Spotlight replacement
 - **Rectangle** - Window management
+- **DevBox Tools** - Free browser-based toolbox with 58+ utilities for developers
 - **Notion** - All-in-one workspace
 
 ## Learning Resources
