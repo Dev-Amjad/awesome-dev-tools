@@ -22,6 +22,10 @@ Essential tools for testing your applications.
 - **REST Assured** - REST testing for Java
 - **Pact** - Contract testing
 
+## Agentic Application Testing
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Natural-language web and mobile QA with persistent test memory, a CLI, and an MCP server
+
 ## Code Coverage
 
 - **Istanbul/nyc** - JavaScript coverage
