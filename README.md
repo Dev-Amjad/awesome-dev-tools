@@ -23,11 +23,14 @@ A curated collection of awesome developer tools, resources, and utilities.
 - **concurrently** - Run multiple commands concurrently
 
 ### Utilities
-- **jq** - Command-line JSON processor
-- **fzf** - Fuzzy finder
-- **ripgrep** - Fast text search
 - **bat** - Cat clone with syntax highlighting
 - **exa** - Modern replacement for ls
+- **fzf** - Fuzzy finder
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** -
+  Developer-alpha Rust CLI and MCP server for encrypted, append-only knowledge
+  with scoped, expiring grants.
+- **jq** - Command-line JSON processor
+- **ripgrep** - Fast text search
 
 ## VS Code Extensions
 
