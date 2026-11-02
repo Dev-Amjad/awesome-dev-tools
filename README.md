@@ -23,11 +23,12 @@ A curated collection of awesome developer tools, resources, and utilities.
 - **concurrently** - Run multiple commands concurrently
 
 ### Utilities
-- **jq** - Command-line JSON processor
-- **fzf** - Fuzzy finder
-- **ripgrep** - Fast text search
 - **bat** - Cat clone with syntax highlighting
 - **exa** - Modern replacement for ls
+- **fzf** - Fuzzy finder
+- **jq** - Command-line JSON processor
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** (macOS) - Open-source network diagnostics CLI with a local MCP server
+- **ripgrep** - Fast text search
 
 ## VS Code Extensions
 
